@@ -6,6 +6,6 @@ public class skilltest {
     
     @Test
     public void test1(){
-        assertEquals(1, skill.divison(2, 1));
+        assertEquals(1, skill.divison(1, 1));
     }
 }
